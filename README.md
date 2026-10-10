@@ -1,9 +1,11 @@
 🏥 HEALTH INSURANCE COST AND RISK ANALYSIS | EXCEL
 
 📌 PROJECT OVERVIEW
+
 Analyzed healthcare insurance data using Microsoft Excel, performing data cleaning and preparation before developing an interactive dashboard to explore insurance charges, patient demographics, lifestyle factors, and regional trends.
 
 🛠️ TOOLS & TECHNOLOGIES
+
 • Microsoft Excel
 
 • Data Cleaning and Preparation
@@ -17,6 +19,7 @@ Analyzed healthcare insurance data using Microsoft Excel, performing data cleani
 • Data Visualization
 
 📊 KEY ANALYSIS AREAS
+
 • Insurance charges by age category
 
 • Patient distribution across regions
@@ -32,6 +35,7 @@ Analyzed healthcare insurance data using Microsoft Excel, performing data cleani
 • Insurance cost patterns across demographic and lifestyle factors
 
 📈 DASHBOARD FEATURES
+
 • KPI cards highlighting key metrics
 
 • Interactive charts for comparative analysis
@@ -41,4 +45,5 @@ Analyzed healthcare insurance data using Microsoft Excel, performing data cleani
 • Visual exploration of patient demographics and insurance costs
 
 🎯 PROJECT OBJECTIVE
+
 To transform raw healthcare insurance data into meaningful visual insights, identify patterns in insurance charges, and support data-driven analysis of demographic and lifestyle factors.
